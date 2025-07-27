@@ -77,6 +77,7 @@ Random	98.2%	1.7%	0.1%
 Human-like	92.5%	6.3%	1.2%
 Minimax	82.1%	17.9%	0.0%
 ```
+
 ## Future Improvements
 - Add Monte Carlo Tree Search integration
 - Implement neural network function approximation
